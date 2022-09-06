@@ -25,4 +25,18 @@ Major part of my career I spent in sales. Worked both as a salesman and sales ma
 **Code example:**
 ```
 ```
-#Courses
+#
+
+**Courses:**
+
+[The Odin Project](https://www.theodinproject.com/): *Full Stack JavaScript* (in progress)
+#
+**Languages:**
+
+
+* English - Intermediate.
+
+*according to [www.efset.org](www.efset.org)*
+![score result](/score_img/main_score.png)
+
+* Russian - Native
