@@ -5,12 +5,14 @@
 
 **E-mail:** grinmak@gmail.com
 
-**Discord rsschool:** *Maksim Gorin (@grinmak)*
+**Discord rsschool:** Maksim Gorin (@grinmak)
+
 #
 
 **About me:**
 
-Major part of my career I spent in sales. Worked both as a salesman and sales manager. Eventually i gained a courage to tell my self that all that sales-thing not my cup of tee. Then switched to cnc-operator. And now, working on a factory, been able to eficently manipulate most of machines here i see a fewer oportunities to grow further, to learn more. And coding - there is no limits, it`s so exiting. I alway love to create: photoshop, premiere pro, any kind of filmmaiking, when you can see how small things combine and become  the 'whole', something completly new. Coding gives me same feeling of satisfaction when mind-skills can transform into real thing. 
+Major part of my career I spent in sales. Worked both as a salesman and sales manager. Eventually i gained a courage to tell my self that all that sales-thing not my cup of tee. Then switched to cnc-operator. And now, working on a factory, been able to eficently manipulate most of machines here i see a fewer oportunities to grow further, to learn more. And coding - there is no limits, it`s so exiting. I alway love to create: photoshop, premiere pro, any kind of filmmaiking, when you can see how small things combine and become  the 'whole', something completly new. Coding gives me same feeling of satisfaction when mind-skills can transform into real thing.
+
 #
 
 **Familiar with technologies and tools:**
@@ -20,23 +22,32 @@ Major part of my career I spent in sales. Worked both as a salesman and sales ma
 * Git
 * VS Code
 * Adobe Premiere Pro, Adobe Photoshop
+
 #
 
 **Code example:**
+```javascript
+function multiply(a, b){
+  return a * b
+}
 ```
-```
+
 #
 
 **Courses:**
 
 [The Odin Project](https://www.theodinproject.com/): *Full Stack JavaScript* (in progress)
+
+
 #
+
 **Languages:**
 
 
 * English - Intermediate.
 
-*according to [www.efset.org](www.efset.org)*
+andaccording to test on [www.efset.org](www.efset.org) :
+
 ![score result](/score_img/main_score.png)
 
 * Russian - Native
