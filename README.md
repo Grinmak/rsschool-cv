@@ -1,1 +1,1 @@
-# *https://grinmak.github.io/rsschool-cv/*
+# *https://grinmak.github.io/rsschool-cv/index.html*
